@@ -34,9 +34,6 @@ wheels/
 # Logs
 *.log
 
-# Database
-*.db
-*.sqlite3
 
 # Virtual environment
 venv/
