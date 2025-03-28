@@ -28,7 +28,6 @@ wheels/
 
 # IDE
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -42,4 +41,3 @@ wheels/
 # Virtual environment
 venv/
 env/
-myenv/
